@@ -24,7 +24,7 @@ crons = ["0 * * * *"]
 
 [[kv_namespaces]]
 binding = "SUBSCRIPTIONS_KV"
-id = "SUBSCRIPTIONS_KV"
+id = "1ee3b13d2d3042ee92adb903fa66a1c0"
 
 # 环境变量（可选，也可以在 Cloudflare Dashboard 中设置）
 [vars]
